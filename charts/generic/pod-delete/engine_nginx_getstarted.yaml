@@ -6,7 +6,7 @@ metadata:
 spec:
   appinfo:
     appns: 'nginx'
-    applabel: 'app=nginx'
+    applabel: 'app=test-nginx-nginx-ingress'
     appkind: 'deployment'
   # It can be active/stop
   engineState: 'active'
