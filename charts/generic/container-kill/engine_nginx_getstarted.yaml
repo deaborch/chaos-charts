@@ -10,7 +10,7 @@ spec:
   auxiliaryAppInfo: ''
   appinfo:
     appns: 'nginx'
-    applabel: 'app=nginx'
+    applabel: 'app=test-nginx-nginx-ingress'
     appkind: 'deployment'
   chaosServiceAccount: container-kill-sa
   # It can be delete/retain
