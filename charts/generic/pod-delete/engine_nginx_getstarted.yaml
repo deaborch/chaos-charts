@@ -14,7 +14,7 @@ spec:
   auxiliaryAppInfo: ''
   chaosServiceAccount: pod-delete-sa
   # It can be delete/retain
-  jobCleanUpPolicy: 'delete'
+  jobCleanUpPolicy: 'retain'
   experiments:
     - name: pod-delete
       spec:
